@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @sweetie
-- 👀 I’m interested in quotes
-- 🌱 I’m currently learning...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- ❤️ I’m interested in quotes.
+  
 
 <!---
 Watermelon0123456/Watermelon0123456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
